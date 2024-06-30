@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716687998620",
+    "project_id": "booklist-cbef1",
+    "storage_bucket": "booklist-cbef1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716687998620:android:8c23403ad49715cb7ff759",
+        "android_client_info": {
+          "package_name": "com.example.mybookmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJVBLXsPt8_Pin7oGxNLvwpCgTWyf134"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
